@@ -123,3 +123,9 @@ Assets/Plugins/Sirenix/Demos/*
 # Gaia
 Assets/Procedural*Worlds/Gaia/Asset*Samples/*
 Assets/Samples/Terrain*Tools/*
+
+# Unity 忽略文件
+Library/
+Temp/
+Obj/
+Build/
